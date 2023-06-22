@@ -1,0 +1,5 @@
+My name is Akshay Iyer, roll number 190070006. The following are the websites I referred to while doing this assignment-
+
+References-  https://towardsdatascience.com/radial-basis-function-rbf-kernel-the-go-to-kernel-acf0d22c798a
+
+(I used this only to understand the theory of the RBF kernel).
